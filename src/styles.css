@@ -1,0 +1,66 @@
+body
+{
+   background: linear-gradient(rgba(0,0,0,0.3),#ccffcc),url(https://nbglandscapes.com.au/wp-content/uploads/2017/09/plant-growing-in-nutrient-rich-soil.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   font-family: "Segoe UI",  sans-serif;
+}
+.App {
+    font-family: "Segoe UI",  sans-serif;
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  header {
+    max-width: 10000px;
+    height: 170px;
+    font-family: "Segoe UI",  sans-serif;
+  }
+  header h1 {
+    color: #000000;
+    padding: 60px 10px;
+    font-size: 70px;
+    
+  }
+  
+  button {
+    align-items: center;
+    padding: 10px 20px;
+    border: 2px solid #ccffcc;
+    background-color: #004d00;
+    color: #ccffcc;
+    margin: 25px;
+    font-size: 1.5rem;
+    border-radius: 10px;
+    cursor: pointer;
+    text-align: center;
+    margin-left: 20px;
+    font-family: "Segoe UI",  sans-serif;
+  }
+  
+ 
+  .App-data {
+    width: 100px;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    font-family: 'Vollkorn', serif;
+  }
+  .App-data img {
+    align-items: center;
+    width: 150px;
+    border-radius: 30px;
+    border: 5px solid #004d00;
+    margin: 20px;
+    padding: 27px;
+    background: rgb(20, 16, 16);
+  }
+  .detail {
+    border: 6px solid  #003300;
+    margin: 20px;
+    font-size: 20px;
+    color: #ccffcc;
+    background-color: #004d00;
+   
+  }
+  
